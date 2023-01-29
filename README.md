@@ -1,5 +1,5 @@
 # PS3-OS
-A recreation of the PS3 operating system.
+An open source recreation of the PS3 operating system.
 
 ## Coming soon
 
